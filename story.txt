@@ -4,5 +4,5 @@ We have 3 minutes to go.
 
 Added a new line. Here we go.
 
-Want to check if push will work without commit first.
+Want to check if push will work without commit first. (This didn't work)
 
